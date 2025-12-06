@@ -1,6 +1,6 @@
-# Nkumba University Python Projects
+# Python Projects
 
-This repository contains **two fully documented, shell-based Python projects** developed by Gloria Nalubega Nambooze for coursework at Nkumba University. Both systems are designed with clear, menu-driven interfaces and adhere to Object-Oriented Programming (OOP) principles.
+This repository contains **two fully documented, shell-based Python projects**. Both systems are designed with clear, menu-driven interfaces and adhere to Object-Oriented Programming (OOP) principles.
 
 ***
 
@@ -73,3 +73,4 @@ To create a versatile Python calculator that assists students with standard arit
 
 ## Notes
 * Both projects are designed for **Python shell execution** and are easy to use.
+
